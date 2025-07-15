@@ -37,6 +37,7 @@
 - **[โปรแกรมจัดการรายการเมนูอาหาร]** - สั่งอาหาร + รับออเดอร์ผ่าน Discord. [Link to Repo](https://github.com/pnwboon/table-food-ordering-react) | [Link to Demo](https://pnwboon.github.io/table-food-ordering-react/)
 - **[โปรแกรมจดบันทึกรายการสิ่งที่ต้องทำ]** - เพิ่ม/ลบ/เครื่องหมายถูก รายการที่ทำ. [Link to Repo](https://github.com/pnwboon/todo-react) | [Link to Demo](https://pnwboon.github.io/todo-react/)
 - **[โปรแกรมคำนวณหาค่าดัชนีมวลกาย BMI]** - คำนวณ BMI จากน้ำหนักและส่วนสูง. [Link to Repo](https://github.com/pnwboon/bmi-calculator-react) | [Link to Demo](https://pnwboon.github.io/bmi-calculator-react/)
+- **[บอทเป่ายิงฉุบ (Rock-Paper-Scissors Discord Bot)]** - เกมเป่ายิงฉุบแบบ Player vs Player (PvP). [Link to Repo](https://github.com/pnwboon/discord-rps-bot)
 
 ---
 
