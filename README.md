@@ -47,4 +47,4 @@
 ---
 
 ## 📊 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnwboon&layout=compact&theme=vue-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnwboon&layout=compact&theme=dark)
