@@ -37,9 +37,3 @@
 
 ## 💻 My Projects
 - **[image-to-pdf-converter]** - แปลงรูปภาพเป็น PDF : [Link to Repo](https://github.com/pnwboon/image-to-pdf-converter) | [Link to Demo](https://pnwboon.github.io/image-to-pdf-converter/)
-
-
----
-
-## 📊 My GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnwboon&layout=compact&theme=dark)
